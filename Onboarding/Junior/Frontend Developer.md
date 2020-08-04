@@ -9,14 +9,14 @@ Company practices
 ### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
 *   [x] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [x] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [x] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 
 React
 -----
@@ -25,15 +25,15 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 
 ### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [x] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 Application state management
@@ -108,14 +108,14 @@ Styling
 
 You can learn how to style HTML elements with flexbox by reading this awesome guide [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-*   [ ] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
-*   [ ] You know how to align children elements [:books:](https://flexboxfroggy.com/)
+*   [x] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
+*   [x] You know how to align children elements [:books:](https://flexboxfroggy.com/)
 *   [ ] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
 *   [ ] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
-*   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
+*   [x] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 
 Date & Time
 -----------
@@ -157,35 +157,35 @@ Development Tools
 
 #### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [x] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
 
 ### [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
 
 #### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
-*   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
-*   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
 #### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
-*   [ ] You know how to describe component's prop types
+*   [x] You know how to describe component's prop types
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
-*   [ ] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
+*   [x] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 HTTP
 ----
@@ -194,11 +194,11 @@ HTTP
 
 #### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [x] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 #### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
-*   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
+*   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 
 Tools
 -----
